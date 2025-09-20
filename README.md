@@ -1,0 +1,2 @@
+# GoogleCalendar2Spreadsheet
+GoogleカレンダーからSpreadsheetへの予定追記
